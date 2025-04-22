@@ -4,7 +4,7 @@ Random mods I made for Glyphs
 This is a collection of temporary mods I made for Glyphs by VortexBros while building up my skills to make more complicated mods. I just thought I might share them.
 
 Check out the game at:
-Itch.io: https://vortex-bros.itch.io/glyphs
+Itch.io: https://vortex-bros.itch.io/glyphs  
 Steam: https://store.steampowered.com/app/3616230/GLYPHS/
 
 # Installation Instructions
