@@ -1,5 +1,5 @@
 # Infinte Stun Mod (Late Game Spoilers)
-1.6.x only
+Compatable with Glyphs v1.6.x only
 
 This mod makes the monster in the outer void permanetly stuck where he spawns and he can no longer harm you.
 
