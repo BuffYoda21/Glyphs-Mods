@@ -3,7 +3,7 @@ Random mods I made for Glyphs
 
 This is a collection of mods I made for Glyphs by VortexBros. Every mod has it's own description file you can read to understand what it does.
 
-Check out the game at:
+Check out the game at:  
 Itch.io: https://vortex-bros.itch.io/glyphs  
 Steam: https://store.steampowered.com/app/3616230/GLYPHS/
 
